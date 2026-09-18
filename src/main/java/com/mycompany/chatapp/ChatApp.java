@@ -1,3 +1,4 @@
+
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
@@ -22,6 +23,7 @@ public class ChatApp {
         System.out.println("==============================");
         System.out.println(" CHATAPP REGISTRATION   ");
         System.out.println("==============================");
+       
        
         // Asks the user to enter their name
         System.out.print("Enter name: ");
